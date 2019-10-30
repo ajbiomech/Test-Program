@@ -7,3 +7,4 @@ flist = ["4.stl",
 flist();
 
 flist = [0 0];
+plist = [4];
